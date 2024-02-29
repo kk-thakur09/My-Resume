@@ -1,0 +1,39 @@
+.k_title
+{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.k_title2
+{
+    text-align: center;
+    font-size: 17px;
+    font-family:'Times New Roman', Times, serif
+}
+.git_img
+{
+    height: 25px;
+}
+
+.linkdin
+{
+    float: right;
+}
+.linkdin_logo
+{
+    height: 25px;
+    margin-left: 28%;
+}
+.heading
+{
+    font-size: 30px;
+    font-weight: bold;
+}
+.ftr
+{
+    height: 30px;
+    padding-left: 90px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
